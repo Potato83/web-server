@@ -25,5 +25,5 @@ app.use(express.static(__dirname + '/public'));
 
 
 app.listen(PORT, function () {
-	console.log('Server is running on port ' + PORT + ' wha');
+	console.log('Server is running on port ' + PORT + ' bud');
 });
